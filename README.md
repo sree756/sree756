@@ -2,11 +2,11 @@
 
 🔭 **Aspiring Data Scientist** with a strong foundation in Machine Learning and Deep Learning
 
-🚀 Completed intensive **Data Science Training** at **Innomatics Research Labs** in Banglore (6 Months)
+🚀 Completed intensive **Data Science Training** at **Innomatics Research Labs** (6 Months)
 
 🎓 **B.Tech in CSE (Artificial Intelligence)** from Parul University
 
-🤖 Interested in **Artificial Intelligence, Neural Networks, and Statistical Modeling**
+🤖 Interested in **Artificial Intelligence, Deep Learning, and Natural Language Processing (NLP)**
 
 💡 I’m building end-to-end **ML pipelines** and **predictive models** using Python & TensorFlow
 
