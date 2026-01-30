@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hi,+I'm+K+Sreenath;Aspiring+Data+Scientist;Building+ML+Models;Visualizing+Complex+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=650&lines=Hi,+I'm+K+Sreenath;Aspiring+Data+Scientist;Building+ML+and+Deep+Learning+Models;Visualizing+Complex+Data" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -44,8 +44,4 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kummarisreenath&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kummarisreenath&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-</div>
+
